@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@quasar/extras": "1.8.1",
-    "quasar": "1.11.3"
+    "quasar": "2.22.0"
   },
   "engines": {
     "node": ">= 10.18.1",
